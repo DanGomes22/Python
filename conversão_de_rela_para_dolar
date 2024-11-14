@@ -1,5 +1,0 @@
-#conversão de rela para dolar
-real = float(input("infor o valor em R$"))
-cotacao = 5.79
-dolar = real / cotacao
-print(f"o valor de R${real} e igal a U$ {dolar:.2f}")
